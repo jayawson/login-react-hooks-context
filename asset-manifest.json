@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/login-react-hooks-context/static/css/main.8f4e80c6.chunk.css",
+    "main.js": "/login-react-hooks-context/static/js/main.13be445a.chunk.js",
+    "main.js.map": "/login-react-hooks-context/static/js/main.13be445a.chunk.js.map",
+    "runtime~main.js": "/login-react-hooks-context/static/js/runtime~main.bfaec963.js",
+    "runtime~main.js.map": "/login-react-hooks-context/static/js/runtime~main.bfaec963.js.map",
+    "static/js/2.d3cb84c8.chunk.js": "/login-react-hooks-context/static/js/2.d3cb84c8.chunk.js",
+    "static/js/2.d3cb84c8.chunk.js.map": "/login-react-hooks-context/static/js/2.d3cb84c8.chunk.js.map",
+    "index.html": "/login-react-hooks-context/index.html",
+    "precache-manifest.cef6005eb5509cc3e49a74df40fd4056.js": "/login-react-hooks-context/precache-manifest.cef6005eb5509cc3e49a74df40fd4056.js",
+    "service-worker.js": "/login-react-hooks-context/service-worker.js",
+    "static/css/main.8f4e80c6.chunk.css.map": "/login-react-hooks-context/static/css/main.8f4e80c6.chunk.css.map",
+    "static/media/404.gif": "/login-react-hooks-context/static/media/404.a8121abe.gif",
+    "static/media/Login.scss": "/login-react-hooks-context/static/media/bg.50461e41.jpg",
+    "static/media/logo.png": "/login-react-hooks-context/static/media/logo.0aceb578.png"
+  }
+}
