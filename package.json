@@ -4,14 +4,15 @@
   "homepage": "http://jorgemgr94.github.io/login-react-hooks-context/",
   "private": true,
   "dependencies": {
-    "react": "^16.8.6",
-    "react-dom": "^16.8.6",
-    "react-scripts": "3.0.0",
     "@material-ui/core": "^3.9.3",
     "@material-ui/icons": "^3.0.2",
+    "axios": "^0.18.0",
+    "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.0",
-    "gh-pages": "^2.0.1"
+    "react-scripts": "3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
