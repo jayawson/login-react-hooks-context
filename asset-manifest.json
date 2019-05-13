@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/login-react-hooks-context/static/css/main.8f4e80c6.chunk.css",
-    "main.js": "/login-react-hooks-context/static/js/main.13be445a.chunk.js",
-    "main.js.map": "/login-react-hooks-context/static/js/main.13be445a.chunk.js.map",
-    "runtime~main.js": "/login-react-hooks-context/static/js/runtime~main.bfaec963.js",
-    "runtime~main.js.map": "/login-react-hooks-context/static/js/runtime~main.bfaec963.js.map",
-    "static/js/2.d3cb84c8.chunk.js": "/login-react-hooks-context/static/js/2.d3cb84c8.chunk.js",
-    "static/js/2.d3cb84c8.chunk.js.map": "/login-react-hooks-context/static/js/2.d3cb84c8.chunk.js.map",
+    "main.css": "/login-react-hooks-context/static/css/main.36a339e6.chunk.css",
+    "main.js": "/login-react-hooks-context/static/js/main.5be319e8.chunk.js",
+    "main.js.map": "/login-react-hooks-context/static/js/main.5be319e8.chunk.js.map",
+    "runtime~main.js": "/login-react-hooks-context/static/js/runtime~main.c2ee1ae2.js",
+    "runtime~main.js.map": "/login-react-hooks-context/static/js/runtime~main.c2ee1ae2.js.map",
+    "static/js/2.c25b2188.chunk.js": "/login-react-hooks-context/static/js/2.c25b2188.chunk.js",
+    "static/js/2.c25b2188.chunk.js.map": "/login-react-hooks-context/static/js/2.c25b2188.chunk.js.map",
+    "static/js/3.accd11e7.chunk.js": "/login-react-hooks-context/static/js/3.accd11e7.chunk.js",
+    "static/js/3.accd11e7.chunk.js.map": "/login-react-hooks-context/static/js/3.accd11e7.chunk.js.map",
     "index.html": "/login-react-hooks-context/index.html",
-    "precache-manifest.cef6005eb5509cc3e49a74df40fd4056.js": "/login-react-hooks-context/precache-manifest.cef6005eb5509cc3e49a74df40fd4056.js",
+    "precache-manifest.c596f5426f442b382615e7ef9cb1d56e.js": "/login-react-hooks-context/precache-manifest.c596f5426f442b382615e7ef9cb1d56e.js",
     "service-worker.js": "/login-react-hooks-context/service-worker.js",
-    "static/css/main.8f4e80c6.chunk.css.map": "/login-react-hooks-context/static/css/main.8f4e80c6.chunk.css.map",
+    "static/css/main.36a339e6.chunk.css.map": "/login-react-hooks-context/static/css/main.36a339e6.chunk.css.map",
     "static/media/404.gif": "/login-react-hooks-context/static/media/404.a8121abe.gif",
     "static/media/Login.scss": "/login-react-hooks-context/static/media/bg.50461e41.jpg",
+    "static/media/loader.gif": "/login-react-hooks-context/static/media/loader.cd5bc121.gif",
     "static/media/logo.png": "/login-react-hooks-context/static/media/logo.0aceb578.png"
   }
 }
