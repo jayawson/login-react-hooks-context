@@ -10,9 +10,7 @@ To run:
 ### How it works
 
 The magic is in Store file, we create a redux store like, with Context API: 
-```
-https://github.com/jorgemgr94/login-react-hooks-context/blob/master/src/Store.js
-```
+[Store file](./src/Store.js)
 
 And here's how to use it with React hooks:
 
